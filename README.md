@@ -8,10 +8,6 @@ Build and document scripts for:
 - Basic detection use cases
 - Task automation with Python and PowerShell
 
-## Technologies
-- Python
-- PowerShell
-
 ## Structure
 - `python/` 
 - `powershell/` 
