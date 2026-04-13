@@ -13,11 +13,11 @@ Build and document scripts for:
 - PowerShell
 
 ## Structure
-- `python/` — Python scripts
-- `powershell/` — PowerShell scripts
-- `detection/` — Detection use cases
-- `parsing/` — Log parsing utilities
-- `README.md` — Project documentation
+- `python/` 
+- `powershell/` 
+- `detection/`
+- `parsing/`
+- `README.md` 
 
 ## Notes
 This repository is part of my learning path towards SOC analysis and security automation.
