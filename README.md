@@ -13,3 +13,13 @@ Build and document scripts for:
 - PowerShell
 
 ## Structure
+soc-automation-lab/
+│
+├── python/
+├── powershell/
+├── detection/
+├── parsing/
+└── README.md
+
+## Notes
+This repository is part of my learning path towards SOC analysis and security automation.
