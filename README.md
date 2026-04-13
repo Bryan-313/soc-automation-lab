@@ -14,7 +14,6 @@ Build and document scripts for:
 
 ## Structure
 soc-automation-lab/
-│
 ├── python/
 ├── powershell/
 ├── detection/
